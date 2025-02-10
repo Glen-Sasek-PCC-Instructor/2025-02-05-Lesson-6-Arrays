@@ -1,0 +1,120 @@
+Here is a plaintext list of chemical elements with their atomic numbers and melting points (in °C):
+
+1. Hydrogen -259.2°C
+2. Helium **(No melting point at standard pressure)**
+3. Lithium 180.5°C
+4. Beryllium 1287°C
+5. Boron 2076°C
+6. Carbon **(Sublimates at ~3642°C)**
+7. Nitrogen **(Sublimates at -210.0°C)**
+8. Oxygen **(Sublimates at -218.8°C)**
+9. Fluorine **(Sublimates at -219.6°C)**
+10. Neon **(No melting point at standard pressure)**
+11. Sodium 97.8°C
+12. Magnesium 650°C
+13. Aluminum 660.3°C
+14. Silicon 1414°C
+15. Phosphorus (White) 44.2°C
+16. Sulfur 115.2°C
+17. Chlorine **(Sublimates at -101.5°C)**
+18. Argon **(No melting point at standard pressure)**
+19. Potassium 63.5°C
+20. Calcium 842°C
+21. Scandium 1541°C
+22. Titanium 1668°C
+23. Vanadium 1910°C
+24. Chromium 1907°C
+25. Manganese 1246°C
+26. Iron 1538°C
+27. Cobalt 1495°C
+28. Nickel 1455°C
+29. Copper 1084.6°C
+30. Zinc 419.5°C
+31. Gallium 29.8°C
+32. Germanium 938.3°C
+33. Arsenic **(Sublimates at ~817°C)**
+34. Selenium 221°C
+35. Bromine **(Sublimates at -7.2°C)**
+36. Krypton **(No melting point at standard pressure)**
+37. Rubidium 39.3°C
+38. Strontium 777°C
+39. Yttrium 1526°C
+40. Zirconium 1855°C
+41. Niobium 2477°C
+42. Molybdenum 2623°C
+43. Technetium 2157°C
+44. Ruthenium 2334°C
+45. Rhodium 1964°C
+46. Palladium 1554.9°C
+47. Silver 961.8°C
+48. Cadmium 321.1°C
+49. Indium 156.6°C
+50. Tin 231.9°C
+51. Antimony 630.6°C
+52. Tellurium 449.5°C
+53. Iodine **(Sublimates at 113.7°C)**
+54. Xenon **(No melting point at standard pressure)**
+55. Cesium 28.5°C
+56. Barium 727°C
+57. Lanthanum 920°C
+58. Cerium 795°C
+59. Praseodymium 931°C
+60. Neodymium 1024°C
+61. Promethium ~1042°C
+62. Samarium 1072°C
+63. Europium 826°C
+64. Gadolinium 1312°C
+65. Terbium 1356°C
+66. Dysprosium 1412°C
+67. Holmium 1474°C
+68. Erbium 1529°C
+69. Thulium 1545°C
+70. Ytterbium 824°C
+71. Lutetium 1652°C
+72. Hafnium 2233°C
+73. Tantalum 3017°C
+74. Tungsten 3422°C
+75. Rhenium 3186°C
+76. Osmium 3033°C
+77. Iridium 2466°C
+78. Platinum 1768.3°C
+79. Gold 1064.2°C
+80. Mercury **(-38.8°C, liquid at room temperature)**
+81. Thallium 304°C
+82. Lead 327.5°C
+83. Bismuth 271.4°C
+84. Polonium 254°C
+85. Astatine **(Estimated ~302°C)**
+86. Radon **(No melting point at standard pressure)**
+87. Francium **(Estimated ~27°C, highly unstable)**
+88. Radium 700°C
+89. Actinium 1050°C
+90. Thorium 1750°C
+91. Protactinium 1568°C
+92. Uranium 1135°C
+93. Neptunium 639°C
+94. Plutonium 639.4°C
+95. Americium 1176°C
+96. Curium 1340°C
+97. Berkelium 986°C
+98. Californium ~900°C
+99. Einsteinium ~860°C
+100. Fermium **(Estimated ~1527°C)**
+101. Mendelevium **(Unknown, likely ~830°C)**
+102. Nobelium **(Unknown, estimated ~827°C)**
+103. Lawrencium **(Unknown, estimated ~1627°C)**
+104. Rutherfordium **(Unknown, estimated ~2100°C)**
+105. Dubnium **(Unknown)**
+106. Seaborgium **(Unknown)**
+107. Bohrium **(Unknown)**
+108. Hassium **(Unknown, estimated ~2800°C)**
+109. Meitnerium **(Unknown)**
+110. Darmstadtium **(Unknown)**
+111. Roentgenium **(Unknown)**
+112. Copernicium **(Unknown, possibly liquid at room temperature)**
+113. Nihonium **(Unknown)**
+114. Flerovium **(Unknown, possibly ~200°C)**
+115. Moscovium **(Unknown)**
+116. Livermorium **(Unknown)**
+117. Tennessine **(Unknown)**
+118. Oganesson **(Unknown, possibly gas at room temperature)**
