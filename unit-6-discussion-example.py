@@ -9,13 +9,6 @@ def main():
     colors.append(aColor)
     aColor = input("Enter a color: ")
 
-  print(colors)
-  print("If you want it formatted better: ")
-  for num in range(len(colors)-1):
-    print(colors[num], ", ", sep = '', end = '')
-
-  print(colors[len(colors)-1])
-
   print('')
   print('')
   index = 0;
@@ -27,4 +20,3 @@ def main():
 
 #call main
 main()
-    
