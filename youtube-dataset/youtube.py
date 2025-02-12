@@ -1,5 +1,6 @@
 import pandas as pd
 
+# https://www.kaggle.com/datasets/samithsachidanandan/most-popular-1000-youtube-videos/data
 df = pd.read_csv('yt-1000.csv')
 
 print(df)
